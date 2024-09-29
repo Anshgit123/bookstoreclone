@@ -24,7 +24,7 @@ function Banner() {
   <input type="text" className="grow outline-none" placeholder="Email" />
 </label>
     </div>
-    <button className="btn btn-secondary mt-6">Secondary</button>
+    <button className="btn btn-secondary mt-6">Get Started</button>
     </div>
     <div className='flex justify-center items-center h-screen order-1 w-full md:w-1/2'>
     <img src="book.jpg" className=' w-70 h-64' alt="" />
